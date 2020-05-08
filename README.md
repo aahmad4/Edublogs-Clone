@@ -25,6 +25,12 @@ or
 yarn install
 ```
 
+## Start Database
+
+```
+./mongod
+```
+
 ## Usage
 
 ```
