@@ -1,7 +1,7 @@
 // Requiring Express
 var express = require("express");
 
-// Adding app param
+// Adding app Param
 var app = express();
 
 // Requiring body parser
