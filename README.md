@@ -6,7 +6,7 @@ A simple clone of the edublogs website recreated with Node.js, Express, MongoDB,
 * Write new blog posts and add to database
 * Ability to write HTML within posts
 * Edit posts in real time and update database entries
-* Delete posts from data base
+* Delete posts from database
 
 ## Clone
 
