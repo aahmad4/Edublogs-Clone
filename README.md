@@ -1,6 +1,5 @@
 # Edublogs Clone
 A simple clone of the edublogs website recreated with Node.js, Express, MongoDB, JavaScript, EJS, and CSS. I created this clone to practice restful routing and to have a good reference I can go back to if I ever want to look back at it. This project contains all seven aspects of restful routing and they are all implemented. 
- 
 
 ## Features
 * Write new blog posts and add to database
