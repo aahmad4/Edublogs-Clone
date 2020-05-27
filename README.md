@@ -26,7 +26,7 @@ yarn install
 ## Start Database
 
 ```bash
-./mongod
+mongod
 ```
 
 ## Usage
